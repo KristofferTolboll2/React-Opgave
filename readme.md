@@ -23,6 +23,7 @@ Der skal følgende sortering og grupperings muligheder:
 <li> Sortering i alfabetisk rækkefølge (foranvn og derefter efternavn) </li>
 <li> Søge funktion, der kan søge efter både fornavn og efternavn  </li>
 </ul>
+
 #### Profil side <code>/profile/:userId </code>
 
 På profisiden skal det kunne være muligt at se helæe brugerens profil. Her skal al information vises. Det skal samtidig være muligt at navigere igennem alle brugerens albums og billeder inde i hvert album. Det skal være muligt at like brugerens profilbillede, hvilket viser et hjerte / thumbs up ud fra hvert billede (Dat skal persistes I localstorage, redux eller anden metode efter dit valg).
